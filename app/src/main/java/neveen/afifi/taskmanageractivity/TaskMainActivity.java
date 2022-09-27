@@ -39,7 +39,7 @@ public class TaskMainActivity extends AppCompatActivity {
         {
             Intent i=new Intent(TaskMainActivity.this,SettingsActivity.class);
             startActivity(i);
-        }
+        }///////
      */
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
